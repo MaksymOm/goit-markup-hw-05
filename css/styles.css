@@ -507,24 +507,23 @@ img {
 }
 
 .subscribe {
-  display: flex;
-  align-items: center;
   margin-left: 80px;
   gap: 24px;
 }
 
 .sub-title {
+  display: flex;
   margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
-  margin-bottom: 16px;
 }
 
 .modal-sub {
   display: flex;
+  gap: 24px;
 }
 
 .sub-input {
