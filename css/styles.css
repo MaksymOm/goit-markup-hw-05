@@ -506,6 +506,13 @@ img {
   background-color: #31d0aa;
 }
 
+.subscribe {
+  display: flex;
+  align-items: center;
+  margin-left: 80px;
+  gap: 24px;
+}
+
 .sub-title {
   margin-bottom: 16px;
   font-weight: 500;
@@ -513,14 +520,15 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
+  margin-bottom: 16px;
 }
 
 .modal-sub {
   display: flex;
-  gap: 24px;
 }
 
 .sub-input {
+  display: flex;
   width: 264px;
   height: 40px;
   border: 1px solid #ffffff;
@@ -532,6 +540,7 @@ img {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   color: #ffffff;
+
   placeholder: color #ffffff;
 }
 
