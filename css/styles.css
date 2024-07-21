@@ -544,6 +544,9 @@ img {
 }
 
 .sub-label {
+  display: flex;
+  align-items: center;
+  gap: 24px;
 }
 
 .button-sub {
