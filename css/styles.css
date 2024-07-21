@@ -592,6 +592,7 @@ img {
   margin-bottom: 16px;
 }
 .modal-name {
+  width: 100%;
   display: flex;
   flex-direction: column;
   margin-bottom: 8px;
@@ -607,7 +608,7 @@ img {
 .input-wrap {
   position: relative;
   border: none;
-  width: 300px;
+
   height: 40px;
   border: 1px solid grey;
 
@@ -664,7 +665,6 @@ img {
   display: flex;
   flex-direction: column;
   margin-bottom: 16px;
-  width: 300px;
   box-sizing: border-box;
 }
 
