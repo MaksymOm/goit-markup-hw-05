@@ -602,13 +602,10 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  margin-bottom: 10px;
+  margin-bottom: 4px;
 }
 .input-wrap {
   position: relative;
-}
-
-.modal-name input {
   border: none;
   width: 300px;
   height: 40px;
@@ -632,17 +629,6 @@ img {
 
 .modal-name input:focus + svg {
   fill: #4d5ae5;
-}
-.modal-phone {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 15px;
-}
-
-.modal-mail {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 15px;
 }
 
 .modal-msg {
